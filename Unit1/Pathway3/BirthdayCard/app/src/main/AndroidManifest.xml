@@ -16,7 +16,9 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.happybirthday">
+    >
+    <!-- package move to build.gradle namspace -->
+    <!-- package="com.example.happybirthday" -->
 
     <application
         android:allowBackup="true"
